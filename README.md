@@ -13,3 +13,10 @@ Question 3:  <br />
 document (without the quotation marks)  <br />
 3. Push the document to the datasciencecoursera repo you created on Github <br />
 4. Submit the link to the HelloWorld.md file on your Github repo.  <br />
+
+Question 4:  <br />
+1. Create a text file called HelloWorld.md <br />
+2. Add the line "## This is a markdown file" (without the quotation marks) to the document  <br />
+(without the quotation marks)
+3. Push the document to the datasciencecoursera repo you created on Github  <br />
+4. Submit the link to the HelloWorld.md file on your Github repo.  <br />
