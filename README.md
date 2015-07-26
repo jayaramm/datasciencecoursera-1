@@ -2,6 +2,13 @@
 
 Data Science Coursera Assignment Directions! <br />
 
+Question 1:  <br />
+1. Install R <br />
+2. Install Rstudio <br />
+3. Open Rstudio and take a screenshot <br />
+4. Submit a screenshot of Rstudio open on your screen using one of these formats: png, jpg, gif, pdf <br />
+
+
 Question 2:  <br />
 1. Set up a Github account (you may use your own name or a pseudonym). <br />
 2. Create a repo called datasciencecoursera <br />
