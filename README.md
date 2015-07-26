@@ -28,3 +28,6 @@ Question 4:  <br />
 3. Push the document to the datasciencecoursera repo you created on Github  <br />
 4. Submit the link to the HelloWorld.md file on your Github repo.  <br />
 
+Question 5: <br />
+1. Fork the data sharing repository here: https://github.com/jtleek/datasharing <br />
+2. Submit the link to the forked repository on your Github account. <br />
