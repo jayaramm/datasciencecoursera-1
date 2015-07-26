@@ -1,4 +1,4 @@
-## datasciencecoursera
+# datasciencecoursera
 
 Data Science Coursera Assignment Directions!
 1. Set up a Github account (you may use your own name or a pseudonym).
